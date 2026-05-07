@@ -4,5 +4,8 @@ pypdf
 faiss-cpu
 langchain_groq
 langchain_google_genai
+langchain_opeai
 python-dotenv
+structlog
+PyMuPDF
 
