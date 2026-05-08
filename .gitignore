@@ -1,4 +1,4 @@
 doc_portal
-.log
+logs
 .env
 document_chat_portal.egg-info
